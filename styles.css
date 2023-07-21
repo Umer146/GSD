@@ -45,6 +45,32 @@ input[type="submit"] {
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
+/* Your existing CSS styles from the previous course registration page */
+/* ... */
+
+/* Additional styles for the fee submission page */
+
+
+input, select {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/* Additional styles for the fee submission page */
+
 
 input[type="submit"]:hover {
     background-color: #0056b3;
