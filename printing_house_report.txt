@@ -1,0 +1,10 @@
+Employees:
+printinthouse.PrintingHouseTest$4@3941a79c
+printinthouse.PrintingHouseTest$5@4fca772d
+
+Printing Machines:
+printinthouse.PrintingMachine@9807454
+
+Publications:
+printinthouse.Publication@3d494fbf
+printinthouse.Publication@1ddc4ec2
