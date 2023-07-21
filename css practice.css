@@ -1,0 +1,36 @@
+table{
+  background-size:cover;
+  width:50%;
+  height:70%;
+  border:1px;
+  border-style: solid;
+  background-color: blueviolet;
+  box-shadow: 10px 20px 30px blueviolet;
+}
+tr{
+
+  border: 5px;
+  border-style: dotted;
+  background-color: darkgoldenrod;
+}
+td {
+  border: 1px;
+  border-style: dot-dash;
+  height:470px;
+  font-style: italic;
+
+
+}
+#closerow{
+  height:90px;
+  background-color:#b3d4fc;
+  border-style: dotted;
+  font-style: italic;
+  text-shadow: #b3d4fc;
+  font-style: italic;
+}
+#simplecol1{
+  padding:10px 10px 20px 10px;
+  background-color: yellowgreen;
+  font-style: italic;
+}
